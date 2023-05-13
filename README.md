@@ -3,7 +3,7 @@
 
 - 📫 Homepage: https://hongzongli-cs.github.io/
 
-- 📫 How to reach me: hongzli2-c@my.cityu.edu.hk, WeChat: lhz17608163847
+- 📫 How to reach me: hongzli2-c@my.cityu.edu.hk, lhz17608163847 (WeChat)
 
 - 💬 Interests:  Optimization, Clustering
 
