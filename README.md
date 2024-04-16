@@ -1,5 +1,5 @@
 ### Hi I'm Hongzong LI 👋
-- 😄 Ph.D. Candidate at CityU
+- 😄 Ph.D. Candidate in Computer Science at City University of Hong Kong
 
 - 📫 Homepage: https://hongzongli-cs.github.io/
 
