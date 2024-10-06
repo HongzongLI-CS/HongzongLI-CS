@@ -5,7 +5,7 @@
 
 - 🤔 How to reach me: hongzli2-c@my.cityu.edu.hk, lhz17608163847 (WeChat)
 
-- 💬 Interests:  Optimization, Clustering
+- 💬 Interests:  Optimization, Machine Learning
 
 - ⚡  MATLAB/C++/Python//HTML.
 
